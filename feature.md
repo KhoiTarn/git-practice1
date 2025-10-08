@@ -1,2 +1,3 @@
 Nội dung tính năng
-Content from feature-branch
+Content from the main branch
+Content from the feature-branch
